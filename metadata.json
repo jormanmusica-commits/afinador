@@ -1,0 +1,5 @@
+{
+  "name": "Corrector de voz ",
+  "description": "Upload an MP3 or WAV audio file to receive an AI-powered analysis of your vocal performance. This application transcribes your lyrics, provides constructive feedback on lyrical content and vocal delivery, and suggests improved lyrics.",
+  "requestFramePermissions": []
+}
